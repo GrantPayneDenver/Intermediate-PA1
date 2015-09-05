@@ -2,7 +2,7 @@
 
 This program takes in user inputs that create 3 points on a 3-D plane which form a triangle.
 The triangle's area is then calculated using Heron's Formula. 
-
+```
 // A 3-dimensional point class!
 // Coordinates are double-precision floating point.
 class Point {
@@ -30,3 +30,5 @@ double getX();
 double getY();
 double getZ();
 };
+
+```
